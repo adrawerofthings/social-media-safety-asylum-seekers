@@ -1,6 +1,6 @@
 # Social Media Safety & Privacy for Asylum Seekers (a workshop template)
 
-V1.0. Last updated 21 June 2018.
+V1.0. Last updated 2 August 2018.
 
 ## About
 
@@ -57,7 +57,7 @@ Feel free to download this template, print it, mark it up, and fork it here on G
 
 Why there's a direct risk:
 
-1. Many countries check public social media information as part of asylum process (including Canada!). A few (Denmark, Austria) will even confiscate your phone for a few days.
+1. Many countries check public social media information as part of asylum process ([Canada](http://www.cbc.ca/news/canada/british-columbia/syrian-refugee-screening-will-be-a-challenge-but-one-canada-can-meet-1.3321889), [Germany](https://www.theguardian.com/world/2016/aug/11/germany-security-proposals-refugees-phones-searched-suspicious-posts-social-media)). A few ([Austria](https://www.bbc.com/news/world-europe-43823166), UK, [Norway](http://www.dailyfinland.fi/europe/1402/Norway-to-use-social-media-to-reveal-asylum-seeker-frauds)) will even confiscate your phone for a few days and Denmark has been known to [require people's Facebook passwords](https://www.wired.co.uk/article/europe-immigration-refugees-smartphone-metadata-deportations).
 2. Immigration officers often ask people to prove what they’re saying by showing them the proper messages or emails on their phone.
 3. A friend (or your children) might accidentally leak your information: a friend's phone might get stolen, friends accidentally tag you publicly on Facebook, or somebody gets hacked from a scam email.
 
